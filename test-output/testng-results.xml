@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-26T19:19:29 IST" name="Default suite" finished-at="2024-06-26T19:21:20 IST" duration-ms="110991">
+    <groups>
+    </groups>
+    <test started-at="2024-06-26T19:19:29 IST" name="Default test" finished-at="2024-06-26T19:21:20 IST" duration-ms="110991">
+      <class name="project.Yahoo_Automation_Project">
+        <test-method is-config="true" signature="bt()[pri:0, instance:project.Yahoo_Automation_Project@4562e04d]" started-at="2024-06-26T19:19:29 IST" name="bt" finished-at="2024-06-26T19:19:32 IST" duration-ms="2752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:project.Yahoo_Automation_Project@4562e04d]" started-at="2024-06-26T19:19:32 IST" name="bm" finished-at="2024-06-26T19:19:34 IST" duration-ms="1629" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="testa()[pri:0, instance:project.Yahoo_Automation_Project@4562e04d]" started-at="2024-06-26T19:19:34 IST" name="testa" finished-at="2024-06-26T19:21:20 IST" duration-ms="106497" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testa -->
+      </class> <!-- project.Yahoo_Automation_Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
